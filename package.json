@@ -1,0 +1,26 @@
+{
+  "name": "zanes_professional_website",
+  "authors":{
+    "name1": "犬の大将 aka Ethan Burrow Fairweather",
+    "name2": "犬の武士 aka Zane Cole Fairweather"
+  },
+  "version": "0.0.1",
+  "description": "Zane Cole Fairweather's personal website using typescript, angular, node, express and more. ",
+  "main": "lib/app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inunobushi/inunobushi.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inunobushi/inunobushi.github.io/issues"
+  },
+  "homepage": "https://github.com/inunobushi/inunobushi.github.io#readme"
+}
