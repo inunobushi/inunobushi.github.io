@@ -1,6 +1,6 @@
-import cluster from 'cluster';
-import {cpus} from 'os';
-import {server} from './server';
+import * as cluster from "cluster";
+import {cpus} from "os";
+import {server} from "./server";
 
 if(cluster.isMaster){
     const numCPUs = cpus().length;
