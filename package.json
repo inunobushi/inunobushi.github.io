@@ -51,7 +51,7 @@
     "@types/body-parser": "^1.16.8",
     "@types/bootstrap": "^3.3.32",
     "@types/jquery": "^2.0.40",
-    "angular2-notifications": "1.0.0",
+    "angular2-notifications": "1.0.2",
     "bootstrap": "^4.0.0",
     "es6-shim": "^0.35.3",
     "font-awesome": "~4.7.0",
